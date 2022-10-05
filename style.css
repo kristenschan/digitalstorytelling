@@ -1,0 +1,19 @@
+h1 {
+color: pink;
+font-family: sans-serif;
+background-color:pink;
+border:5px solid brown;
+padding:20px;
+}
+
+
+h1 {
+background-color:silver;
+}
+
+img {
+border: 1px solid pink;
+width:20%;
+height:20%;
+margin-left:10px;
+}
